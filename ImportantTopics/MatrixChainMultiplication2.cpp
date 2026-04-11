@@ -1,5 +1,7 @@
 #include<iostream>
 #include<vector>
+#include<algorithm>
+
 using namespace std;
 
 void pp(int i, int j, const vector<vector<int>>& bracket, char& c){
